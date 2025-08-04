@@ -2,7 +2,5 @@
 
 更新了代码(仅推理部分) 以适配 python 3.9
 
-查看原版
-
-> https://github.com/Rudrabha/Wav2Lip
+其他见 [原版](https://github.com/Rudrabha/Wav2Lip)
 
