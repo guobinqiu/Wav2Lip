@@ -1,6 +1,6 @@
 # **Wav2Lip**: *Accurately Lip-syncing Videos In The Wild* 
 
-更新了代码以适配 python 3.9
+更新了代码(仅推理部分) 以适配 python 3.9
 
 查看原版
 
